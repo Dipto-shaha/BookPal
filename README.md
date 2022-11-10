@@ -17,4 +17,4 @@ Requirements for the software and other tools to build, test
 ## Project Source:
  - GitHub Repository: https://github.com/ShoebAhad/Android_project  
  - Video Link: [Drive Video Link](https://drive.google.com/file/d/1EoW-RXHJrIiPpe0RMpqDrxylfvZCUCiS/view)    
- - Latest APK Link:[Google Drive Link](https://drive.google.com/file/d/1gR37qhykQYVA9ibCwNZHMCjlGmr3tivP/view?usp=share_link)
+ - Latest APK Link:[Google Drive Link](https://drive.google.com/drive/folders/1RQ8_PUhvmIKkE_0zkT9ipduyoUMI8ZyY)
